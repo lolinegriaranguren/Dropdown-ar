@@ -1,0 +1,67 @@
+body{
+   background-image: url(http://proyectosbeta.net/wp-content/uploads/2013/07/WallPapers_Texturas01.jpg);  
+}
+
+.contenedor{
+    padding: 40px;
+    color: #fff;
+}
+
+.padding{
+    padding: 1px 0px; 
+}
+
+h1{
+    text-align: center;
+    font-weight: bolder;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 50px;
+}
+
+.cuadro{
+    width: 500px;
+    border: solid 1px #fff;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 0, .7);
+}
+
+ul{
+    clear: both;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+
+li{
+    border-top: solid 1px #fff;
+    padding: 50px; 
+}
+
+li:last-child{
+    
+}
+
+h2{ 
+    float: left;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    margin-left: 50px;
+}
+
+a{
+    text-decoration: none; 
+    color: #fff;
+}
+
+.icono{
+    float: right;
+    margin-top: 18.720px;
+    margin-bottom: 18.720px;
+    margin-right: 50px;
+}
+
+span{
+    text-align: center;
+    display:block;
+    font-size: 30px;
+}
